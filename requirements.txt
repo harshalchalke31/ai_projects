@@ -21,3 +21,6 @@ python-docx
 langchain-core
 duckduckgo-search
 arxiv
+torch
+torchvision
+torchaudio
